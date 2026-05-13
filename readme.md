@@ -20,3 +20,7 @@ PCB (gerbers included in /pcb/gerbers)
 
 
 <img width="886" height="538" alt="image" src="https://github.com/user-attachments/assets/cbfb1527-9037-4c21-b060-29b6ce59bbec" />
+
+<img width="1221" height="850" alt="image" src="https://github.com/user-attachments/assets/f2e7fd01-71b3-4c77-a125-f15d9e4a92f4" />
+
+<img width="472" height="420" alt="image" src="https://github.com/user-attachments/assets/e41ea6df-5bcc-47ad-b70d-f4e4ec6d1408" />
